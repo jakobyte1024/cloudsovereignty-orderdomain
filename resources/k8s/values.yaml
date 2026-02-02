@@ -1,6 +1,6 @@
 app: 
   image:
-    repository: novatec/technologyconsulting-showcase-orderdomain
+    repository: 4096mm/cloudsovereignty-orderdomain
     tag: 
   appconfig:
     httpport: 9080
